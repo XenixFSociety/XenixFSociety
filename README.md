@@ -4,10 +4,13 @@
 
 About me
 
-Languages and Tools
-![flutter](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logocolor=pink)
-![flutter](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logocolor=pink)
-![flutter](https://img.shields.io/badge/-Sql-black?style=for-the-badge&logo=mysql&logocolor=pink)
-![flutter](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github&logocolor=pink)
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logocolor=pink)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logocolor=pink)
+![Sql](https://img.shields.io/badge/-Sql-black?style=for-the-badge&logo=mysql&logocolor=pink)
+![GitHub](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github&logocolor=pink)
 
-Follow Me
+### Follow Me
+![Instagram](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=instagram&logocolor=pink)
+![Telegram](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=telegram&logocolor=pink)
+![VK](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Vk&logocolor=pink)
