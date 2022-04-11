@@ -11,6 +11,6 @@ About me
 ![GitHub](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github&logocolor=pink)
 
 ### Follow Me
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logocolor=pink)](https://t.me/xen1xxx)
-![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logocolor=pink)
-![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=Vk&logocolor=pink)
+![Instagram](https://img.shields.io/badge/-__Cherepko__-black?style=for-the-badge&logo=instagram&logocolor=pink)
+![Telegram](https://img.shields.io/badge/-@xen1xxx-black?style=for-the-badge&logo=telegram&logocolor=pink)
+![VK](https://img.shields.io/badge/-dcherepko-black?style=for-the-badge&logo=Vk&logocolor=pink)
